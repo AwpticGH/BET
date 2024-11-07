@@ -21,6 +21,7 @@
 - created_at: timestamp of when the TODO list is created
 - updated_at: timestamp of when the TODO list is updated at
 - deleted_at: timestamp of when the TODO list is deleted
+
 **Note** Timestamp is in the format of *d-m-Y H:i:s (07-11-2024 20:22:32)* 
 
 ### Data Persistence
