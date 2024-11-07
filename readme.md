@@ -26,3 +26,7 @@
 
 ### Data Persistence
 Uses normal list (array) instead of a database as required by the test.
+
+### Testing with Postman
+You can use the following URL to get my API collection for testing the application.
+https://api.postman.com/collections/22665825-4a237774-ea06-412e-be63-5d99fa075d77?access_key=PMAT-01JC3DEEWQQMK4X4T08TB6Z1RX
