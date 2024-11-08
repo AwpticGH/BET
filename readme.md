@@ -2,7 +2,7 @@
 ## Simple Todo API App
 
 ### Notice
-This application will keep on being updated until the deadline of the test has reached it's end. Please check the commit history for any changes made.
+This application is complete as all requirements have been met.
 
 ### Technologies Used for Development
 1. flask
